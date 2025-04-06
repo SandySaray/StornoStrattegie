@@ -1,0 +1,14 @@
+C:\Users\SandySaray\Entwicklung-C#\StornoStrategie\obj\Debug\net9.0\StornoStrategie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandySaray\Entwicklung-C#\StornoStrategie\obj\Debug\net9.0\StornoStrategie.AssemblyInfoInputs.cache
+C:\Users\SandySaray\Entwicklung-C#\StornoStrategie\obj\Debug\net9.0\StornoStrategie.AssemblyInfo.cs
+C:\Users\SandySaray\Entwicklung-C#\StornoStrategie\obj\Debug\net9.0\StornoStrategie.csproj.CoreCompileInputs.cache
+C:\Users\SandySaray\Entwicklung-C#\StornoStrategie\bin\Debug\net9.0\StornoStrategie.exe
+C:\Users\SandySaray\Entwicklung-C#\StornoStrategie\bin\Debug\net9.0\StornoStrategie.deps.json
+C:\Users\SandySaray\Entwicklung-C#\StornoStrategie\bin\Debug\net9.0\StornoStrategie.runtimeconfig.json
+C:\Users\SandySaray\Entwicklung-C#\StornoStrategie\bin\Debug\net9.0\StornoStrategie.dll
+C:\Users\SandySaray\Entwicklung-C#\StornoStrategie\bin\Debug\net9.0\StornoStrategie.pdb
+C:\Users\SandySaray\Entwicklung-C#\StornoStrategie\obj\Debug\net9.0\StornoStrategie.dll
+C:\Users\SandySaray\Entwicklung-C#\StornoStrategie\obj\Debug\net9.0\refint\StornoStrategie.dll
+C:\Users\SandySaray\Entwicklung-C#\StornoStrategie\obj\Debug\net9.0\StornoStrategie.pdb
+C:\Users\SandySaray\Entwicklung-C#\StornoStrategie\obj\Debug\net9.0\StornoStrategie.genruntimeconfig.cache
+C:\Users\SandySaray\Entwicklung-C#\StornoStrategie\obj\Debug\net9.0\ref\StornoStrategie.dll
